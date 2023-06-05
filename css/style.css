@@ -1,0 +1,12 @@
+.font-size-plugin {
+    position: relative;
+}
+
+.font-size-plugin button {
+    font-size: 16px;
+    padding: 5px 10px;
+}
+
+.font-size-content {
+    font-size: 16px;
+}
